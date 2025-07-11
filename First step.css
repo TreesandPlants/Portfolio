@@ -1,9 +1,9 @@
 body {
     font-family: 'Times New Roman', Times, serif;
     background-image: url(https://export-download.canva.com/y8TBI/DAGsmoy8TBI/6/0/0001-3103451399016992363.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH5AO7UJ26%2F20250708%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250708T145152Z&X-Amz-Expires=16349&X-Amz-Signature=8fa0abc97ec1a3b826aa43ec4e3e2f49f04475dd1922b552a4c4f5eed41369c0&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Your%2520paragraph%2520text.jpg&response-expires=Tue%2C%2008%20Jul%202025%2019%3A24%3A21%20GMT);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: auto;
+    background-repeat: repeat;
     color:white;
     margin: 0;
     padding: 0;
